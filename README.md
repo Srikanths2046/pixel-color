@@ -1,3 +1,4 @@
 # color-detector
 
-![pixel-color-demo](https://github.com/user-attachments/assets/1fa27b0b-1c3f-47de-824c-ea7a5e9a2b6f)
+![pixel-color-demo](https://github.com/user-attachments/assets/27011470-bcc4-4e90-b7c1-7813f3d7b1b8)
+
