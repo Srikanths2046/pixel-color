@@ -1,4 +1,4 @@
-#A simple color-detector
+#A-simple-color-detector
 
 A Handy tool to extract the color values under the mouse cursor.
 
