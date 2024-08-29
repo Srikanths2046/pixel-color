@@ -24,7 +24,7 @@ To install the necessary libraries, you can use `pip`:
 ### Usage:
 1. Clone the Repository:<br>
 `git clone https://github.com/Srikanths2046/pixel-color.git`<br>
-`cd pixel-color`<br>
+`cd pixel-color/color-detector`<br>
 
 2. Run the script using Python:<br>
 `python color-detector.py`<br>
