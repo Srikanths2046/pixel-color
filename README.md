@@ -23,11 +23,11 @@ To install the necessary libraries, you can use `pip`:
 
 ### Usage:
 1. Clone the Repository:<br>
-`git clone https://github.com/your-username/color-picker.git`<br>
-`cd color-picker`<br>
+`git clone https://github.com/Srikanths2046/pixel-color.git`<br>
+`cd pixel-color`<br>
 
 2. Run the script using Python:<br>
-`python color_picker.py`<br>
+`python color-detector.py`<br>
 
 The program will display a small, floating window showing the color under the cursor and its corresponding hex value.
 
